@@ -1,0 +1,27 @@
+{
+    "buildId": "52014891796363912",
+    "clientId": "51985510095642761",
+    "gameId": "1405735336",
+    "language": "English",
+    "languages": [
+        "en-US"
+    ],
+    "name": "Age of Civilizations II",
+    "osBitness": [
+        "64"
+    ],
+    "playTasks": [
+        {
+            "category": "game",
+            "isPrimary": true,
+            "languages": [
+                "en-US"
+            ],
+            "name": "Age of Civilizations II",
+            "path": "AoC2.exe",
+            "type": "FileTask"
+        }
+    ],
+    "rootGameId": "1405735336",
+    "version": 1
+}
